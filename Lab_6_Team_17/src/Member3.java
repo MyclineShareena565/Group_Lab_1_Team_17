@@ -5,13 +5,10 @@
 
 /**
  *
- * @author Shari
+ * @author ish
  */
-public class Main {
-
+public class Member3 {
     public static void main(String[] args) {
-        Member1.main(args);
-        Member3.main(args);
-        Member3.main(args);
+        System.out.println("Hello from Member 3!");
     }
 }
